@@ -1,0 +1,12 @@
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+kaggle.json
+access_token
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+dataset/
+report_visualisations/
